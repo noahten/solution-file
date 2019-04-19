@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yasuemon_Door", "Yasuemon_Door.csproj", "{07B0565B-A096-E04E-1115-966FE3499692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yasuemon_Door.Editor", "Yasuemon_Door.Editor.csproj", "{1223D046-2310-D5F4-6EFC-A2D710B80AC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07B0565B-A096-E04E-1115-966FE3499692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B0565B-A096-E04E-1115-966FE3499692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B0565B-A096-E04E-1115-966FE3499692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B0565B-A096-E04E-1115-966FE3499692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1223D046-2310-D5F4-6EFC-A2D710B80AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1223D046-2310-D5F4-6EFC-A2D710B80AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1223D046-2310-D5F4-6EFC-A2D710B80AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1223D046-2310-D5F4-6EFC-A2D710B80AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
